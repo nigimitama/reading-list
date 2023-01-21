@@ -1,0 +1,2 @@
+# reading-list
+githubのissueをメモ帳代わりにして面白そうな文献をざっくりメモしておく試み
